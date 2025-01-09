@@ -1,0 +1,3 @@
+Name: Laboed
+Age: 32
+Fav color: green
