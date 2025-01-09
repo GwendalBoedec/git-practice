@@ -1,3 +1,4 @@
 Name: Laboed
 Age: 32
 Fav color: green
+Fav sport: road cycling
